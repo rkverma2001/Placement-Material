@@ -1,3 +1,11 @@
+/*
+ * 0 - 1 Triangle : 1
+ *                  0 1
+ *                  1 0 1
+ *                  0 1 0 1
+ *                  1 0 1 0 1
+ */
+
 import java.util.*;
 public class zero_one_triangle {
 

@@ -1,3 +1,11 @@
+/*
+ * Inverted and Rotated Half Pyramid :         *
+ *                                           * *
+ *                                         * * *
+ *                                       * * * *
+ *                                     * * * * *
+ */
+
 public class inverted_rotated_half_pyramid {
     public static void invertedHalfrotatedPyramid(int n) {
         for(int i=1; i<=n; i++) {

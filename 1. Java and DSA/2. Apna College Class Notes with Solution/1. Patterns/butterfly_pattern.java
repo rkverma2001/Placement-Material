@@ -1,3 +1,16 @@
+/*
+ * Butterfly Pattern : *                 *
+ *                     * *             * *
+ *                     * * *         * * *
+ *                     * * * *     * * * *
+ *                     * * * * * * * * * *
+ *                     * * * * * * * * * *
+ *                     * * * *     * * * *
+ *                     * * *         * * *
+ *                     * *             * *
+ *                     *                 *
+ */
+
 import java.util.*;
 
 public class butterfly_pattern {

@@ -1,4 +1,13 @@
-class Solution{
+/*
+ * Hollow Rectangle Pattern : * * * * *
+ *                            *       *
+ *                            *       *
+ *                            *       *
+ *                            * * * * *
+ * 
+ */
+
+class print_hollow_rectangle{
     public static void hollow_rectangle(int totRows, int totCols) {
         for(int i=1; i<=totRows; i++) {
             for(int j=1; j<=totCols; j++) {

@@ -1,3 +1,11 @@
+/*
+ * Hollow Rhombus :          * * * * *
+ *                        *       *
+ *                      *       *
+ *                    *       *
+ *                  * * * * *
+ */
+
 import java.util.*;
 public class hollow_rhombus_pattern {
     public static void hollow_rhombus(int n) {

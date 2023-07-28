@@ -1,3 +1,11 @@
+/*
+ * Solid Rhombus :          * * * * *
+ *                        * * * * *
+ *                      * * * * *
+ *                    * * * * *
+ *                  * * * * *
+ */
+
 import java.util.*;
 public class solid_rhombus_pattern {
     public static void solid_rhombus(int n) {

@@ -1,3 +1,11 @@
+/*
+ * Inverted Half Pyramid With Numbers : 1 2 3 4 5
+ *                                      1 2 3 4
+ *                                      1 2 3
+ *                                      1 2
+ *                                      1
+ */
+
 import java.util.*;
 public class inverted_half_pyramid_numbers {
 
